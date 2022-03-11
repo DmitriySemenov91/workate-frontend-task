@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/workate-frontend-task/static/css/main.8edb187c.css",
+    "main.js": "/workate-frontend-task/static/js/main.9d74f759.js",
+    "index.html": "/workate-frontend-task/index.html",
+    "main.8edb187c.css.map": "/workate-frontend-task/static/css/main.8edb187c.css.map",
+    "main.9d74f759.js.map": "/workate-frontend-task/static/js/main.9d74f759.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8edb187c.css",
+    "static/js/main.9d74f759.js"
+  ]
+}
