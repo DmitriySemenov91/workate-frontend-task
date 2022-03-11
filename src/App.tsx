@@ -14,8 +14,8 @@ function App() {
       <Container maxWidth="lg">
         <Header />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/:id" element={<Index />} />
+          <Route path="/home" element={<Home />} />
+          <Route path="/home/photo/:id" element={<Index />} />
         </Routes>
       </Container>
     </div>
