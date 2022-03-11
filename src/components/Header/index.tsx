@@ -12,12 +12,8 @@ export const Header = () => {
       </Link>
       <div className={styles.rightSide}>
         <div className={styles.links}>
-          <a href="/">
-            <Button>Soon feature</Button>
-          </a>
-          <a href="/">
-            <Button>Soon feature</Button>
-          </a>
+          <Button>Soon feature</Button>
+          <Button>Soon feature</Button>
         </div>
       </div>
     </header>
